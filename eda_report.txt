@@ -1,0 +1,21 @@
+TITANIC DATASET - EDA REPORT
+========================================
+
+Total passengers analyzed: 891
+
+Survival rate by gender:
+Sex
+female    0.742038
+male      0.188908
+
+Survival rate by passenger class:
+Pclass
+1    0.629630
+2    0.472826
+3    0.242363
+
+Key observations:
+1. Passenger survival varied by gender.
+2. Passenger class was related to survival chances.
+3. Age and fare distributions were explored.
+4. Numerical relationships were examined using correlation.
